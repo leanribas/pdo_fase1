@@ -10,14 +10,14 @@ Front-end utilizado no projeto foi webix.
 
 Código php se encontra no diretorio:
 
-###
+```bash
 -raiz
 --php
-###
+```
 
 Arquivo para o mysql:
-###
+```bash
 -raiz
 --sql
 ---pdo.sql
-###
+```
